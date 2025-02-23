@@ -1,6 +1,6 @@
 package Taller3;
 
-public class PruebaPolimorfismo {
+public class pruebaPolimorfismo {
     public static void main(String[] args) {
         Persona persona = new Persona("Juan");
         Persona Estudianta = new Estudianta("Sharlok Alcazar", "Ingeniería");
