@@ -1,4 +1,4 @@
-package Taller15__PrincipioDeSegregacionDeInterfaces.Ejercicio2;
+package Taller15.Ejercicio2;
 
 
 public interface Retiro {

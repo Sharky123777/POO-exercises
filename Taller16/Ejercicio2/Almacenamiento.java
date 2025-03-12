@@ -1,4 +1,4 @@
-package Taller16__PrincipioDeInversionDeDependencias.Ejercicio2;
+package Taller16.Ejercicio2;
 
 
 public interface Almacenamiento {

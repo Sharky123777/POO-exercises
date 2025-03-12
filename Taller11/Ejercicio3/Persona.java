@@ -1,4 +1,4 @@
-package Taller11__Polimorfismo.Ejercicio3;
+package Taller11.Ejercicio3;
 
 
 public class Persona {

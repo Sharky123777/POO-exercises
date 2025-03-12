@@ -1,4 +1,4 @@
-package Taller11__Polimorfismo.Ejercicio2;
+package Taller11.Ejercicio2;
 
 
 public class Profesor extends  Persona{

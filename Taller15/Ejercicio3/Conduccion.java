@@ -1,4 +1,4 @@
-package Taller15__PrincipioDeSegregacionDeInterfaces.Ejercicio3;
+package Taller15.Ejercicio3;
 
 
 public interface Conduccion {

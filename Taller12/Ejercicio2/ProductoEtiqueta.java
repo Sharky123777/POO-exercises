@@ -1,4 +1,4 @@
-package Taller12__PrincipioDeResponsabilidadUnica.Ejercicio2;
+package Taller12.Ejercicio2;
 
 
 import java.util.UUID;

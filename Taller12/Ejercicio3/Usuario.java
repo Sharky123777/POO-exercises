@@ -1,4 +1,4 @@
-package Taller12__PrincipioDeResponsabilidadUnica.Ejercicio3;
+package Taller12.Ejercicio3;
 
 
 public class Usuario {

@@ -1,4 +1,4 @@
-package Taller14__PrincipioDeSustitucionLiskov.Ejercicio3;
+package Taller14.Ejercicio3;
 
 /****************************************************
  Developer Name: Luz Dari Crespo Gómez

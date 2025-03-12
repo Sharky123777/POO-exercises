@@ -1,4 +1,4 @@
-package Taller14__PrincipioDeSustitucionLiskov.Ejercicio2;
+package Taller14.Ejercicio2;
 
 
 

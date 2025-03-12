@@ -1,4 +1,4 @@
-package Taller12__PrincipioDeResponsabilidadUnica.Ejercicio1;
+package Taller12.Ejercicio1;
 
 
 

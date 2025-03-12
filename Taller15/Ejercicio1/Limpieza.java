@@ -1,4 +1,4 @@
-package Taller15__PrincipioDeSegregacionDeInterfaces.Ejercicio1;
+package Taller15.Ejercicio1;
 
 
 
