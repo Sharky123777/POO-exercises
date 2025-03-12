@@ -1,9 +1,6 @@
 package Taller15.Ejercicio2;
 
-/****************************************************
- Developer Name: Luz Dari Crespo Gómez
- Developer Contact: luzdaricrespo@gmail.com
- ****************************************************/
+
 
 
 public class CuentaBancaria implements Transferencia, Retiro {
